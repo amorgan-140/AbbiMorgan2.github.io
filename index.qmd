@@ -11,19 +11,25 @@ about:
     href:  abigail-morgan@ou.edu
 ---
 
-::: {.columnpage}
-
-# Welcome to my research profile website 🔬🧠! 
-
+::: columnpage
+# Welcome to my research profile website 🔬🧠!
 
 ## About Me
 
 - **Name:** Abbi Morgan
 - **Institution:** University of Oklahoma Health Campus
 - **Research Interests:** Add your research interests here
-- **Email:** abigail-morgan@ou.edu
+- **Email:** abigail-morgan\@ou.edu
 
 ## My Research
+
+- Impact of methamphetamine on mitochondria morphology and function in dopaminergic neurons
+
+- Stereotaxic injections with AAVs to target and label the mitochondria in SNc dopamine neurons
+
+- Fixed section confocal imaging
+
+- Live ex vivo brain slice 2-photon imaging
 
 ## This Website
 
@@ -36,13 +42,7 @@ As my research progresses, I'll continue adding:
 - New analyses and projects
 - Additional resources
 
----
+------------------------------------------------------------------------
 
 **Keep exploring!** Navigate using the menu above.
-
-
-
-
-
-
-
+:::
