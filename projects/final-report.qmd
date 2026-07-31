@@ -360,15 +360,17 @@ print(p_gender_why)
 
 ```
 
-## Conclusions
-
-Summarize your findings and their implications.
+![](/Science_Your-brain-on-coffee_Gladys-Lou.png){fig-align="center"}
 
 ## References
 
 - Tidy Tuesday Repo (<https://github.com/rfordatascience/tidytuesday>)
 
 - Robet McKeon Aloe "Great American Coffee Taste Test Breakdown" (<https://rmckeon.medium.com/great-american-coffee-taste-test-breakdown-7f3fdcc3c41d>)
+
+- Lindsay and Elena have been amazing in teaching and helping out!
+
+- Special thank you to Michalea Vance and Clara Hibbs!
 
 ------------------------------------------------------------------------
 
