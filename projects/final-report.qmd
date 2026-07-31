@@ -172,7 +172,7 @@ final_summary %>% # Visualize the data and put into a table
 
 ## Results
 
-### 1. First let's look at how different genders like to brew their coffee
+### 1. Gender x Brew Method
 
 ```{r}
 #| code-fold: show
@@ -251,7 +251,7 @@ print(p_gender_brew_donut)
 
 ```
 
-### 2. Political Affiliation vs Brew Method
+### 2. Political Affiliation x Brew Method
 
 ```{r}
 #| code-fold: show
