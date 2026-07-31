@@ -9,7 +9,7 @@ body-classes: rclassproject
 
 ## Introduction
 
-As busy and tired scientist, many of us rely on coffee as a lifeline to get us through those long experiment or writing days. A data set that surveyed \~4,000 individuals, looked at how different demographics (such as age, gender, political affiliation, ect.) feel about different aspects of coffee (like additives, dairy preference, brew method, ect.). I wanted to use this final as a way to practice organizing the data, using different plotting methods, and some stats. Enjoy!
+As busy and tired scientist, many of us rely on coffee as a lifeline to get us through those long experiment or writing days. A data set that surveyed \~4,000 individuals, looked at how different demographics (such as age, gender, political affiliation, ect.) feel about different aspects of coffee (like additives, dairy preference, brew method, ect.). I wanted to use this final as a way to practice organizing the data and using different plotting methods. Enjoy!
 
 ![](/Coffee_brain.jpg){fig-align="center" width="408"}
 
