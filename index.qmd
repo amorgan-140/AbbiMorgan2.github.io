@@ -13,13 +13,10 @@ about:
 
 ::: {.columnpage}
 
-# Hello! 👋
+# Welcome to my research profile website 🔬🧠! 
 
-Welcome to my research profile website. I'm a student in the Intro to Reproducible Data Analysis Using R course.
 
 ## About Me
-
-Replace this section with information about yourself:
 
 - **Name:** Abbi Morgan
 - **Institution:** University of Oklahoma Health Campus
@@ -27,13 +24,6 @@ Replace this section with information about yourself:
 - **Email:** abigail-morgan@ou.edu
 
 ## My Research
-
-I'm interested in understanding [your topic area]. Through this course, I've learned how to:
-
-- Use R for data analysis
-- Create reproducible research workflows
-- Build websites to share my work
-- Manage my research projects with Git and GitHub
 
 ## This Website
 
